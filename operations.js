@@ -13,4 +13,11 @@ function addition(value1, value2) {
 }
 
 let add = addition(50, 20); 
-console.log(add)
+console.log(add);
+
+
+
+
+let userName = 'mahadev';
+console.log(userName.length);
+console.log(userName.toUpperCase());
