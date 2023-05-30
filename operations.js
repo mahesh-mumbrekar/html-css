@@ -21,3 +21,7 @@ console.log(add);
 let userName = 'mahadev';
 console.log(userName.length);
 console.log(userName.toUpperCase());
+
+
+let names = ['mahesh', 'ankit', 'mahadev'];
+console.log(names.length);
